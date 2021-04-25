@@ -1,6 +1,6 @@
-#@title practice_dataset_1
-#1990 US Census - California Housing Data Set
-#Developed by: MD SARWAR AHMED (md_ug@ece.nits.ac.in)
+#@title practice_dataset_1/
+#1990 US Census - California Housing Data Set/
+#Developed by: MD SARWAR AHMED (md_ug@ece.nits.ac.in)/
 
   **MOTIVATION**
   
@@ -12,7 +12,7 @@
     
    Some of the rows of the .csv file file holding the California Housing Dataset:
 
-"longitude","latitude","housing_median_age","total_rooms","total_bedrooms","population","households","median_income","median_house_value"
+_"longitude","latitude","housing_median_age","total_rooms","total_bedrooms","population","households","median_income","median_house_value"_
 -114.310000,34.190000,15.000000,5612.000000,1283.000000,1015.000000,472.000000,1.493600,66900.000000
 -114.470000,34.400000,19.000000,7650.000000,1901.000000,1129.000000,463.000000,1.820000,80100.000000
 -114.560000,33.690000,17.000000,720.000000,174.000000,333.000000,117.000000,1.650900,85700.000000
