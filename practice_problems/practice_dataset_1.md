@@ -1,6 +1,6 @@
 # **practice_dataset_1**/
 # 1990 US Census - California Housing Data Set/
-Developed by: MD SARWAR AHMED (md_ug@ece.nits.ac.in)/
+MD SARWAR AHMED (md_ug@ece.nits.ac.in)
 
   
   **MOTIVATION**
