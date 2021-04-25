@@ -13,7 +13,7 @@ Developed by: MD SARWAR AHMED (md_ug@ece.nits.ac.in)/
    The features/label(s) of the .csv file holding the California Housing Dataset are
 
 _"longitude","latitude","housing_median_age","total_rooms","total_bedrooms","population","households","median_income"_: some are used as features from here,
-_"median_house_value"_: used as a label (target for task-driven supervised ml model).
+_"median_house_value"_: used as a label (target for task-driven supervised model).
 
     
     
