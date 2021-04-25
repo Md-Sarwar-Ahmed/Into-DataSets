@@ -4,13 +4,13 @@
 
   **MOTIVATION**
   
-    As I progressed through the Google Developers' Machine Learning Crash Course, I decided to put the machine learning concepts into practice by coding models in tf.keras. I have used Colab as a programming environment (Colab is Google's version of Jupyter Notebook). Like Jupyter Notebook, Colab provides an interactive Python programming environment that combines text, code, graphics, and program output.
+   As I progressed through the Google Developers' Machine Learning Crash Course, I decided to put the machine learning concepts into practice by coding models in tf.keras. I have used Colab as a programming environment (Colab is Google's version of Jupyter Notebook). Like Jupyter Notebook, Colab provides an interactive Python programming environment that combines text, code, graphics, and program output.
   
   **About the DATASET**
     
-    The dataset for this practice session hase been based on the 1990 census data from California and although, this dataset is old but still, it provides a great opportunity to learn about machine learning programming.
+   The dataset for this practice session hase been based on the 1990 census data from California and although, this dataset is old but still, it provides a great opportunity to learn about machine learning programming.
     
-    Some of the rows of the .csv file file holding the California Housing Dataset:
+   Some of the rows of the .csv file file holding the California Housing Dataset:
 
 "longitude","latitude","housing_median_age","total_rooms","total_bedrooms","population","households","median_income","median_house_value"
 -114.310000,34.190000,15.000000,5612.000000,1283.000000,1015.000000,472.000000,1.493600,66900.000000
