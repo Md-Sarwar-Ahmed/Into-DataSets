@@ -5,7 +5,7 @@
   
   **MOTIVATION**
   
-   As I progressed through the _Google Developers' Machine Learning Crash Course_, I decided to put the machine learning concepts into practice by coding models in _tf.keras_. I have used **Colab** as a programming environment (Colab is Google's version of _Jupyter_ Notebook). Like Jupyter Notebook, Colab provides an interactive Python programming environment that combines text, code, graphics, and program output.
+   As I progressed through the _Google Developers' Machine Learning Crash Course_, I decided to put the machine learning concepts into practice by coding models in _tf.keras_. I have used **Colab** as a programming environment (Colab is Google's version of _Jupyter_ Notebook). Like Jupyter Notebook, Colab provides an interactive Python programming environment that combines text, code, graphics, and program output. This Colab uses a dataset to predict the prices of houses in California.
   
   
   **About the DATASET**
